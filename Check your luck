@@ -1,0 +1,13 @@
+birth=int(input("Enter date of birth "))
+# birth=10
+if birth<=10:
+  print("lucky")
+elif birth<=20:
+  print("not that much lucky")
+elif birth<=28:
+  print("always sad")
+
+else:
+  print("Enter valid date")
+
+ 
